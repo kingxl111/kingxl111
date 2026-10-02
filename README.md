@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://media1.tenor.com/m/xyIzlxrYUjsAAAAC/gopher-powerful.gif" width="600" height="400"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -33,7 +33,17 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
+### Activity
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingxl111/kingxl111/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingxl111/kingxl111/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/kingxl111/kingxl111/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingxl111&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
